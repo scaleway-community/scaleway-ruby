@@ -4,7 +4,7 @@ VERSION =		latest
 VERSION_ALIASES =
 TITLE =			Ruby
 DESCRIPTION =		Ruby
-SOURCE_URL =		https://github.com/scaleway/image-app-ruby
+SOURCE_URL =		https://github.com/scaleway-community/scaleway-ruby
 VENDOR_URL =		https://www.ruby-lang.org/
 
 IMAGE_VOLUME_SIZE =	50G
