@@ -1,5 +1,4 @@
-DOCKER_NAMESPACE =	armbuild/
-NAME =			scw-app-ruby
+NAME =			ruby
 VERSION =		latest
 VERSION_ALIASES =
 TITLE =			Ruby
