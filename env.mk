@@ -1,0 +1,9 @@
+IMAGE_NAME = ruby
+IMAGE_VERSION = latest
+IMAGE_VERSION_ALIASES =
+IMAGE_TITLE = Ruby
+IMAGE_DESCRIPTION = Ruby
+IMAGE_SOURCE_URL = https://github.com/scaleway-community/scaleway-ruby
+IMAGE_VENDOR_URL = https://www.ruby-lang.org/
+DEFAULT_IMAGE_ARCH = x86_64
+IMAGE_BOOTSCRIPT = mainline 4.9
