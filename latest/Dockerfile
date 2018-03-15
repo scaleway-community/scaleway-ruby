@@ -1,4 +1,5 @@
 ## -*- docker-image-name: "scaleway/ruby:latest" -*-
+ARG SCW_ARCH
 FROM scaleway/ubuntu:${SCW_ARCH}-xenial
 
 MAINTAINER Scaleway <opensource@scaleway.com> (@scaleway)
